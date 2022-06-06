@@ -1,0 +1,29 @@
+/* MAIN */
+
+body {
+  background-image: url("../images/mywpictur.png");
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+main {
+  padding: 10rem 10rem 2rem 10rem;
+}
+
+section {
+  width: 30vw;
+}
+
+section h2 {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+section h2 span {
+  display: block;
+}
+
+section p {
+  line-height: 1.6;
+}
